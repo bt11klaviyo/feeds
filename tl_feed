@@ -1,0 +1,68 @@
+[
+  {
+    "id":"",
+    "title":"Kinetic Impact Sports Bra",
+    "link":"https://www.thirdlove.com/products/kinetic-impact-sports-bra-mazarine-blue",
+    "description":"You move. Your boobs stay put. Get the no-bounce support you deserve from a sports bra that actually works for you.",
+    "price":39,
+    "image_link":"https://cdn.shopify.com/s/files/1/0305/6249/products/SUM22_A_KineticImpactSportsBra_MazarineBlue_1048011_07640.jpg?v=1654122868&width=500",
+    "categories":["Women's"," Sports Bra"," Multi-way Strap"," Bra"," Active"," Sale"," Mazarine Blue"," Wireless"," Adjustable"],
+    "inventory_quantity":25,
+    "inventory_policy":1
+  },
+  {
+    "id":"",
+    "title":"24/7® Classic T-Shirt Bra",
+    "link":"https://www.thirdlove.com/products/24-7-classic-t-shirt-bra-taupe",
+    "description":"Your ultimate go-to bra. Our #1 style smooths and forms to you for a super flattering, comfortable fit that’s invisible under clothes.",
+    "price":59,
+    "image_link":"https://cdn.shopify.com/s/files/1/0305/6249/products/21_BSC22_PDP_24_7_TShirt_LBCheeky_Taupe_B1_11863.jpg?v=1668629901&width=500",
+    "categories":["Women's"," T-shirt Bra"," Taupe"," Sale"," Best Seller"," Pleated"," Bra"," Padded"," Tagless"," Hook & Eye"],
+    "inventory_quantity":30,
+    "inventory_policy":1
+  },
+  {
+    "id":"",
+    "title":"Form Seamless V-Neck Wireless Bra",
+    "link":"https://www.thirdlove.com/products/form-seamless-v-neck-wireless-bra-gray-heather",
+    "description":"The wireless bra you can wear anywhere. Cute, comfy, actually supportive, and no uniboob. Gives you great lift for an extra cleavage boost.",
+    "price":19,
+    "image_link":"https://cdn.shopify.com/s/files/1/0305/6249/products/SeamlessVNeckWireless_SeamlessHighLeg_HeatherGrayPeriscope_PDP_A_5_2021_11000__RETOUCHED_CLIP.jpg?v=1628770774&width=500",
+    "categories":["Women's"," Wireless"," Bra"," Heather Gray Bra"," Sale"," Best Seller"," Adjustable"],
+    "inventory_quantity":0,
+    "inventory_policy":1
+  },
+  {
+    "id":"",
+    "title":"Leakproof Pima Cotton Hipster",
+    "link":"https://www.thirdlove.com/products/leakproof-pima-cotton-hipster",
+    "description":"Never worry about leaks again. Our super soft cotton hipster gives you discreet protection from life’s little leaks and light flow days. Absorbs in one second.",
+    "price":9,
+    "image_link":"https://cdn.shopify.com/s/files/1/0305/6249/products/FAL22_B_LeakproofPimaCottonHipster_Black_1085601_8315.jpg?v=1659568842&width=500",
+    "categories":["Women's", " New Arrival", " Underwear", " Leakproof", " Cotton", " Hipster"," Black"],
+    "inventory_quantity":45,
+    "inventory_policy":1
+  },
+  {
+    "id":"",
+    "title":"The Flannel Pajama Set",
+    "link":"https://www.thirdlove.com/products/the-flannel-pajama-set",
+    "description":"A fresh take on plaid flannel that’s cute, cuffed, and ready to cozy up all winter long. However long you hibernate in it is up to you.",
+    "price":70,
+    "image_link":"https://cdn.shopify.com/s/files/1/0305/6249/products/HOL22_PDP_FlanPajShirt_FlanPajJogger_teal-plaid_B_21770_1_1068x1396.jpg?v=1668728219",
+    "categories":["Women's"," Sleep & Lounge"," Flannel"," Pajamas"," Relaxed Fit"],
+    "inventory_quantity":27,
+    "inventory_policy":1
+  },
+  {
+    "id":"",
+    "title":"24/7® Classic Strapless Bra",
+    "link":"https://www.thirdlove.com/products/24-7-classic-strapless-bra",
+    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+    "price":59,
+    "image_link":"https://cdn.shopify.com/s/files/1/0305/6249/products/BSC_C_247ClassicStraplessBra_LBCheeky_Taupe_1000278_1023602_13795.jpg?v=1657827008&width=500",
+    "categories":["apparel","t-shirt","new-arrival","swag"],
+    "inventory_quantity":70,
+    "inventory_policy":1
+  }
+]
