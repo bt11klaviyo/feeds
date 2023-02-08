@@ -50,7 +50,7 @@
     "description":"A fresh take on plaid flannel that’s cute, cuffed, and ready to cozy up all winter long. However long you hibernate in it is up to you.",
     "price":70,
     "image_link":"https://cdn3.minted.com/files/mintedProductsImages/MIN/MVV/371/MIN-371-MVV-001_A_PZ.jpg?mntd_prf=Pdp:HeroImage",
-    "categories":[Home","Vases","Home Decor"],
+    "categories":["Home","Vases","Home Decor"],
     "inventory_quantity":27,
     "inventory_policy":1
   },
