@@ -1,0 +1,68 @@
+[
+  {
+    "id":"04511261",
+    "title":"Overlapping",
+    "link":"https://www.minted.com/product/wedding-invitations/MIN-3SP-INV/overlapping",
+    "description":"You move. Your boobs stay put. Get the no-bounce support you deserve from a sports bra that actually works for you.",
+    "price":569,
+    "image_link":"https://cdn3.minted.com/files/mintedProductsImages/MIN/INV/3SP/MIN-3SP-INV-001J_A_PZ.jpg?mntd_prf=Pdp:HeroImage",
+    "categories":["Wedding","Invitation","Wedding Invitation","Classic","Script","Traditional"],
+    "inventory_quantity":25,
+    "inventory_policy":1
+  },
+  {
+    "id":"577830049",
+    "title":"People",
+    "link":"https://www.minted.com/product/foil-pressed-graduation-cards/MIN-Q2T-GFS/people",
+    "description":"Your ultimate go-to bra. Our #1 style smooths and forms to you for a super flattering, comfortable fit that’s invisible under clothes.",
+    "price":157,
+    "image_link":"https://cdn3.minted.com/files/mintedProductsImages/MIN/GFS/Q2T/MIN-Q2T-GFS-001GOLD_A_PD.gif?mntd_prf=Pdp:HeroImage",
+    "categories":["Graduation","Invitation","Graduation Cards","Susan Brown","Border","Foil","Fun","Invitation","Party","People","Photo","Play On Words","Real People"],
+    "inventory_quantity":30,
+    "inventory_policy":1
+  },
+  {
+    "id":"589300010",
+    "title":"Botanical Blocks",
+    "link":"https://www.minted.com/product/baby-shower-invitations/MIN-ZXQ-BSH/botanical-blocks",
+    "description":"The wireless bra you can wear anywhere. Cute, comfy, actually supportive, and no uniboob. Gives you great lift for an extra cleavage boost.",
+    "price":104,
+    "image_link":"https://cdn3.minted.com/files/mintedProductsImages/MIN/BSH/ZXQ/MIN-ZXQ-BSH-001_A_PZ.jpg?mntd_prf=Pdp:HeroImage",
+    "categories":["Kids","Baby","Baby Shower","Invitation","Autumn","Blocks","Boho","Botanical","Classic","Fall","Floral","Flower","Flowers","Garden","Peony","Seasonal","Spring","Summer","Watercolor","Watercolour","Baby Shower Invitation"],
+    "inventory_quantity":500,
+    "inventory_policy":1
+  },
+  {
+    "id":"689860003",
+    "title":"Les Plantes I",
+    "link":"https://www.minted.com/product/art/MIN-UO3-GOA/les-plantes-i",
+    "description":"Never worry about leaks again. Our super soft cotton hipster gives you discreet protection from life’s little leaks and light flow days. Absorbs in one second.",
+    "price":204,
+    "image_link":"https://assets.minted.com/image/upload/c_scale,w_640,t_18x24_natural_hero/prod/artwork/GOA/UO3/MIN-UO3-GOA_A_FBL.jpg?mntd_prf=Pdp:HeroImage",
+    "categories":["Art","Wall Art Prints","Les Plantes I","Bohemian","Floral and Botanical","Graphic"],
+    "inventory_quantity":45,
+    "inventory_policy":1
+  },
+  {
+    "id":"659284855",
+    "title":"Wiggle Vase - Mustard",
+    "link":"https://www.minted.com/product/direct-from-artists/MIN-371-MVV/wiggle-vase-mustard",
+    "description":"A fresh take on plaid flannel that’s cute, cuffed, and ready to cozy up all winter long. However long you hibernate in it is up to you.",
+    "price":70,
+    "image_link":"https://cdn3.minted.com/files/mintedProductsImages/MIN/MVV/371/MIN-371-MVV-001_A_PZ.jpg?mntd_prf=Pdp:HeroImage",
+    "categories":[Home","Vases","Home Decor"],
+    "inventory_quantity":27,
+    "inventory_policy":1
+  },
+  {
+    "id":"595952333",
+    "title":"Disney's Anna Frame",
+    "link":"https://www.minted.com/product/custom-pillow/MIN-033-PSM/disneys-anna-frame",
+    "description":"Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
+    "price":48,
+    "image_link":"https://cdn3.minted.com/files/mintedProductsImages/MIN/PSM/033/MIN-033-PSM-001_A_PZ.jpg?mntd_prf=Pdp:HeroImage",
+    "categories":["Kids","Pillows","Gift","Disney","Disney Gift","Disney Pillows"],
+    "inventory_quantity":0,
+    "inventory_policy":1
+  }
+]
