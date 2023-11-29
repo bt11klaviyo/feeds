@@ -1,0 +1,32 @@
+[
+  {
+    "title": "UAD Essentials Edition",
+    "id": "04511261",
+    "sku": "04511261",
+    "link": "https://www.uaudio.com/uad-plugins/plug-in-bundles/uad-essentials-edition.html",
+    "image_link": "https://media.uaudio.com/catalog/product/cache/1/thumbnail/245x/85e4522595efc69f496374d01ef2bf13/u/a/uad_essentials_edition_thumb.jpg",
+    "price": "49.00",
+    "description": "Get the rich analog tones heard on decades of classic albums with 11 must‑have UAD plug-ins and instruments — for one low price — no UA hardware required.",
+    "categories": ["Native","Apollo","PolyMAX","Synth","Channel Strip","EQ","Echo","Reverb", "Software", "Plug-in"]
+  },
+  {
+    "title": "UAD Spark",
+    "id": 689860003,
+    "sku": 689860003,
+    "link": "https://spark.uaudio.com/",
+    "image_link": "https://media.uaudio.com/assetlibrary/u/a/uad_spark_logo_notext_1.png",
+    "price": "99.00",
+    "description": "UAD Spark plug-ins perfectly model the best vintage gear and instruments used by your favorite artists for decades.",
+    "categories": ["Reverb","Modulation","Preamps","EQ","Channel Strip","Compressor","Intstruments", "Software", "Plug-in"]
+  },
+  {
+    "title": "https://www.uaudio.com/uad-plugins/instruments-extensions/studer-a800-tape-recorder.html",
+    "id": "577830049",
+    "sku": "577830049",
+    "link": "https://www.uaudio.com/uad-plugins/instruments-extensions/studer-a800-tape-recorder.html",
+    "image_link": "https://media.uaudio.com/catalog/product/cache/1/thumbnail/245x/85e4522595efc69f496374d01ef2bf13/s/t/studer_a800_thumb__2x_1.jpg",
+    "price": "49.00",
+    "description": "The rich analog sound of the world’s most popular multichannel tape machine.",
+    "categories": ["Native","Apollo","LUNA","Studer","Analog","Software", "Plug-in"]
+  }
+]
