@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Front 2-Wheel Set Semi-Metallic Brake Pads, Premium Braking Series",
+    "id": "04511261",
+    "sku": "04511261",
+    "model":"2020 BMW 228i",
+    "brand":"BMW",
+    "link": "https://www.carparts.com/details/BMW/228i/TRW/Brake_Pad_Set/2016/TRWTXH1609.html",
+    "image_link": "https://res.cloudinary.com/us-auto-parts-network-inc/image/upload/d_noimage.jpg/b_rgb:FFFFFF,c_pad,dpr_auto,f_auto,h_1200,q_auto,w_1200/v1/images/trwtxh1609_1",
+    "price": "87.97",
+    "description":"Manufactured with premium friction formulation, TRW OE Replacement brake pad set delivers safe and reliable braking with less dust and noise. It is also designed to provide long service life and comfort with its copper-free formulation.",
+    "warranty":"12 months",
+    "categories": ["Brakes", "Suspension & Steering","BMW","Sale","Front","TRW","Replacement","2020 BMW 228i"]
+  },
+  {
+    "title": "Front Bumper Cover, Primed, with Headlight Washer Holes, For Models with M Sport Package and Park Assist System",
+    "id": 689860003,
+    "sku": 689860003,
+    "model":"2020 BMW 228i",
+    "link": "https://www.carparts.com/details/BMW/228i/Replacement/Bumper_Cover/2016/REPBM010365P.html",
+    "image_link": "https://res.cloudinary.com/us-auto-parts-network-inc/image/upload/d_noimage.jpg/b_rgb:FFFFFF,c_pad,dpr_auto,f_auto,h_1200,q_auto,w_1200/v1/images/repbm010365p_1",
+    "price": "387.99",
+    "warranty":"12 months",
+    "description": "Has the front or rear end of your vehicle become an eyesore after a collision? If you’re searching for a factory look at a great value, choose a Replacement bumper cover for your next repair job. This Replacement bumper cover comes pre-primed and offers easy installation with a perfect fit – all at a price that’s far less than original equipment.",
+    "categories": ["BMW","Sale","2020 BMW 228i","Bumper Cover","Auto Body Parts & Mirrors","Bumpers & Components"]
+  },
+  {
+    "title": "2690 Speedometer - Mechanical, Universal, Sold individually",
+    "id": "577830049",
+    "sku": "577830049",
+    "model":"Universal",
+    "brand":"Universal",
+    "link": "https://www.carparts.com/speedometer/autometer/a482690",
+    "image_link": "https://res.cloudinary.com/us-auto-parts-network-inc/image/upload/d_noimage.jpg/b_rgb:FFFFFF,c_pad,dpr_auto,f_auto,h_1200,q_auto,w_1200/v1/images/a482690_1",
+    "price": "49.00",
+    "warranty":"12 months",
+    "description": "Looking for a speedometer with more features and a better design than your stock one? Autometer makes the widest variety of speedometers on the market and all are accurately manufactured in the U.S.A.",
+    "categories": ["Univeral","Sale","Interior Accessories","Gauges","Meters & Monitors","Speedometer"]
+  }
+]
